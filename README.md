@@ -15,3 +15,7 @@ The data is obtained from the following databases:
 The software and libraries required to run the code successfully can be found in the environment.yml, see SDS210-PROJECT/environment.yml.
 
 To successfully execute the project, the jupyter notebook can be run from top to bottom, code block per code block. 
+The code is structured in the following way:
+- data imports for all 4 subparts are done at the beginning of the project
+- each question is answered in a separate code block which comes with a markdown title including the question
+- display(data.head()), print(data.head()) are deleted from the code as means of clarity, but can be inserted (and were conducted to check integrity of previous actions) where necessary
