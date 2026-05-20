@@ -18,4 +18,5 @@ To successfully execute the project, the jupyter notebook can be run from top to
 The code is structured in the following way:
 - data imports for all 4 subparts are done at the beginning of the project
 - each question is answered in a separate code block which comes with a markdown title including the question
-- display(data.head()), print(data.head()) are deleted from the code as means of clarity, but can be inserted (and were conducted to check integrity of previous actions) where necessary
+- display(data.head()), print(data.head()) are deleted from the code as means of clarity, but can be inserted (and were conducted to check integrity of previous actions, check dtypes and crs, ...) where necessary
+- not every line is commented, but some important comments are given
