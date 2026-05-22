@@ -34,7 +34,7 @@ The output compounds
 # macro-assumptions
 The assumptions made are the following: 
 - CRS = EPSG:2056
-- "around the lake" = Kreise 1, 2, 8
+- "around the lake" or "lakeside" = Kreise 1, 2, 8
 
 # reproducing the environment
 The software and libraries required to run the code successfully can be found in the environment.yml, see SDS210-PROJECT/environment.yml.
