@@ -5,7 +5,7 @@ This repository contains an analysis of the "Züri Wie Neu" data. There are 4 sp
 1b: Which are the top 3 'Quartiere'/'Kreise' with the most reports?
 2: Is the density of reports higher around the lake (in 'Kreise' 1,2 and 8) than elsewhere?
 3: How does the report density differ between august (summer) and january (winter)?
-4: Which trend does the august (summer) data around the lake show within the report period?
+4: Which trend does the august (summer) and january (winter) data around the lake show within the report period?
 
 The data is obtained from the following databases: 
 - Züri Wie Neu: https://data.stadt-zuerich.ch/dataset/geo_zueri_wie_neu
