@@ -39,7 +39,9 @@ The assumptions made are the following:
 - august represents the summer months and january stands representatively for winter
 
 # Reproducing the Environment
+The project can be found on the branch called 'project' on GitHub (not on the 'main' branch)
 The software and libraries required to run the code successfully can be found in the environment.yml, see SDS210-PROJECT/environment.yml.
+
 
 # Usage
 To successfully execute the project, the jupyter notebook can be run from top to bottom, code block per code block. 
